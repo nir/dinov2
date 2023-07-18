@@ -6,5 +6,4 @@ fvcore
 iopath
 xformers
 submitit
---extra-index-url https://pypi.nvidia.com
 cuml-cu11
