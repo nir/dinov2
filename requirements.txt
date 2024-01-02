@@ -6,4 +6,4 @@ fvcore
 iopath
 xformers
 submitit
-cuml-cu11
+cuml-cu121
